@@ -1,0 +1,17 @@
+Line number  | Moved palindrome
+-------------------------------
+1            | Madam          
+1            | kayak          
+5            | level          
+5            | civic          
+8            | n              
+8            | m              
+8            | e              
+8            | madam          
+11           | radar          
+12           | rotator        
+13           | n              
+13           | m              
+13           | e              
+13           | madam          
+13           | tt             

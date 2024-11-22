@@ -1,0 +1,16 @@
+C:\Users\dsunt\source\repos\LW3\bin\Debug\LW3.exe.config
+C:\Users\dsunt\source\repos\LW3\bin\Debug\LW3.exe
+C:\Users\dsunt\source\repos\LW3\bin\Debug\LW3.pdb
+C:\Users\dsunt\source\repos\LW3\obj\Debug\LW3.csproj.AssemblyReference.cache
+C:\Users\dsunt\source\repos\LW3\obj\Debug\LW3.csproj.CoreCompileInputs.cache
+C:\Users\dsunt\source\repos\LW3\obj\Debug\LW3.exe
+C:\Users\dsunt\source\repos\LW3\obj\Debug\LW3.pdb
+C:\Users\dsunt\source\repos\LW3\bin\Debug\L3_3T.txt
+C:\Users\dsunt\Desktop\C#\LW3\obj\Debug\LW3.csproj.AssemblyReference.cache
+C:\Users\dsunt\Desktop\C#\LW3\obj\Debug\LW3.csproj.CoreCompileInputs.cache
+C:\Users\dsunt\Desktop\C#\LW3\obj\Debug\LW3.exe
+C:\Users\dsunt\Desktop\C#\LW3\obj\Debug\LW3.pdb
+C:\Users\dsunt\Desktop\C#\LW3\bin\Debug\L3_3T.txt
+C:\Users\dsunt\Desktop\C#\LW3\bin\Debug\LW3.exe.config
+C:\Users\dsunt\Desktop\C#\LW3\bin\Debug\LW3.exe
+C:\Users\dsunt\Desktop\C#\LW3\bin\Debug\LW3.pdb
